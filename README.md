@@ -9,7 +9,7 @@ Authors: Haoxin Liu*, Leo Zhiyuan Zhao*, Jindong Wang, Harshavardhan Kamarthi, B
 Paper + Appendix: [https://arxiv.org/abs/2402.16132](https://arxiv.org/abs/2402.16132)
 
 ## Reproducibility
-Coming Soon, we will release the code by end March. Please contact hliu763@gatech.edu
+Coming Soon, we will release the code by 4.15 (Sorry for the delay). Please contact hliu763@gatech.edu
 
 ## Contact
 
