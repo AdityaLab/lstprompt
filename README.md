@@ -11,6 +11,9 @@ Paper + Appendix: [https://arxiv.org/abs/2402.16132](https://arxiv.org/abs/2402.
 ## Reproducibility
 Coming Soon, we will release the code by 2024-07-11 (Sorry for the delay). Please contact hliu763@gatech.edu
 
+## Trying out LSTPrompt
+Run the quick demo in the `demo.ipynb` notebook.
+
 ## Contact
 
 If you have any questions about the code, please contact:
@@ -31,3 +34,9 @@ If you find our work useful, please cite our work:
   year={2024}
 }
 ```
+
+## Acknowledgement
+
+This repo is constructed based on the following repos:
+
+[https://github.com/ngruver/llmtime]
