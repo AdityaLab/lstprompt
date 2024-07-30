@@ -4,15 +4,14 @@
 
 Implementation of the paper "LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting."
 
+Venue: ACL Findings 2024
+
 Authors: Haoxin Liu*, Leo Zhiyuan Zhao*, Jindong Wang, Harshavardhan Kamarthi, B.Aditya Prakash
 
 Paper + Appendix: [https://arxiv.org/abs/2402.16132](https://arxiv.org/abs/2402.16132)
 
-## Reproducibility
-Coming Soon, we will release the code by 2024-07-11 (Sorry for the delay). Please contact hliu763@gatech.edu
-
-## Trying out LSTPrompt
-Run the quick demo in the `demo.ipynb` notebook.
+## Run LSTPrompt
+Try LSTPrompt through the quick demo `demo.ipynb` notebook.
 
 ## Contact
 
